@@ -48,7 +48,7 @@ Transport Layer: WebSockets (with fallbacks & auto-reconnect)
 
 # 1️⃣ Clone the repository
 
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/rajsprajapati/chatapp.git
 cd <your-repo>
 
 # 2️⃣ Install dependencies
